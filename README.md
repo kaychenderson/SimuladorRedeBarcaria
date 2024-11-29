@@ -1,5 +1,8 @@
 <p align="center"> 
     ### 🏦 Simulador de Rede Bancária
+</p>
+
+<p align="center"> 
     <a href="#descricao">Descrição</a> • 
     <a href="#funcionalidades">Funcionalidades</a> • 
     <a href="#instalacao">Instalação</a> • 
