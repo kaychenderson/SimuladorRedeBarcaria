@@ -1,6 +1,5 @@
-### 🏦 Simulador de Rede Bancária
-
 <p align="center"> 
+    ### 🏦 Simulador de Rede Bancária
     <a href="#descricao">Descrição</a> • 
     <a href="#funcionalidades">Funcionalidades</a> • 
     <a href="#instalacao">Instalação</a> • 
